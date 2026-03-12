@@ -92,6 +92,9 @@ Possible improvements for this project:
 ## 👩‍💻 Author
 
 **Prity Jaiswal**
+
 Aspiring Data Analyst passionate about data visualization, analytics, and business insights.
+
+GitHub: https://github.com/prityj058-gif
 
 ---
